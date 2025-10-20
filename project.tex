@@ -1,15 +1,40 @@
 \documentclass{article}
-\title{Gruppenarbeit: Auflistung von Projekten Gruppe: Phis n' Chips}
-\author{Anna Kaiser, Sina Wissmann, Gwendolyn Crestan, Jepser Steuer, Maurice Mick, Simon Müller}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx} % Notwendig für das Einfügen von Bildern
+\usepackage[firstpage=true]{background} % Lädt das Hintergrund-Paket für die erste Seite
+\usepackage{xcolor} % Für Farben
+\usepackage{titlesec} % Für Überschriften-Design
+
+\definecolor{DesignRed}{RGB}{221, 0, 25}
+\titleformat{\section}
+  {\normalfont\Large\bfseries\color{DesignRed}} % Format des Titels
+  {\thesection} % Die Nummer (z.B. "1.")
+  {1em} % Abstand zwischen Nummer und Titel
+  {} % Code vor dem Titel (lassen wir leer)
+
+\backgroundsetup{
+  contents = {\includegraphics[ % Der Inhalt ist unser Bild
+    width=\paperwidth,   % Das Bild soll so breit wie das Papier sein
+    height=\paperheight  % Das Bild soll so hoch wie das Papier sein
+  ]{Bilder/Hintergrund_dreiecke.png}}, % Name deiner Bilddatei
+  scale = 1,      % Keine zusätzliche Skalierung
+  opacity = 1,    % Keine Transparenz
+  angle = 0,      % Nicht drehen
+  position = current page % Positioniert das Bild auf der ganzen Seite
+}
+
+\title{
+    \vspace*{5cm}
+    Gruppenarbeit: Auflistung von Projekten \\ Gruppe: Phis n' Chips}
+\author{Anna Kaiser, Sina Wissmann, Gwendolyn Crestan, \\ Jepser Steuer, Maurice Mick, Simon Müller}
 \date{\today}
 
 \begin{document}
-\maketitle 
+\maketitle
+\clearpage % Stellt sicher, dass der Hintergrund nur auf der ersten Seite ist
 \section{Einleitung}
 In diesem Dokument werden verschiedene Projekte aufgelistet, die im Rahmen der Gruppenarbeit analysiert wurden.
-
-
-\newpage
 
 \section{Projekte}
 \begin{itemize}
@@ -18,7 +43,7 @@ In diesem Dokument werden verschiedene Projekte aufgelistet, die im Rahmen der G
     \item Projekt 3: Microsoft TALE
 \end{itemize}
 
-
+\clearpage
 \section{Projekt 1: The Human Brain Project (HBP) / EBRAINS}
 \begin{itemize}
     \item \textbf{Projektbeschreibung:} 
@@ -30,8 +55,7 @@ In diesem Dokument werden verschiedene Projekte aufgelistet, die im Rahmen der G
 
     \item \textbf{Ziele:}
     \begin{itemize}
-        \item Das Menschliche Gehirn sollte am Computer so genau wie möglich nachgebaut und
-        \item Es sollt ein genaueres Verständnis der Funktionsweise des Gehirns erlangt 
+        \item Es sollte ein genaueres Verständnis der Funktionsweise des Gehirns erlangt 
         werden, damit Krankheiten wie Altzheimer oder Demenz besser verstanden werden können.
         \item Bereitstellung einer Cloudplattform (EBRAINS) für die kollaborative 
         Hirnforschung.
