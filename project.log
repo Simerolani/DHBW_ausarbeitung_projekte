@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.10.9)  21 OCT 2025 12:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.10.9)  21 OCT 2025 13:07
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -415,6 +415,36 @@ Overfull \hbox (3.16719pt too wide) in paragraph at lines 88--91
 [3
 
 ]
+Underfull \hbox (badness 10000) in paragraph at lines 107--136
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 107--136
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 107--136
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 107--136
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 107--136
+
+ []
+
+
+Overfull \hbox (0.4506pt too wide) in paragraph at lines 107--136
+\T1/cmr/m/n/10 Das Pro-jekt ist \T1/cmr/bx/n/10 neuar-tig\T1/cmr/m/n/10 , da eine mil-itärische Kon-ver-sions-fläche in ein mod-ernes, durch-mis-chtes Stadtquartier
+ []
+
+
 
 [4
 
@@ -439,9 +469,9 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  99i,12n,105p,524b,760s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\simon\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk> <C:\Users\simon\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk> <C:\Users\simon\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\simon\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\simon\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\simon\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1728.pk>
-Output written on project.pdf (6 pages, 1114443 bytes).
+Output written on project.pdf (6 pages, 1114747 bytes).
 PDF statistics:
- 284 PDF objects out of 1000 (max. 8388607)
+ 286 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  18 words of extra memory for PDF output out of 10000 (max. 10000000)
 
