@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.10.9)  20 OCT 2025 21:36
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.10.9)  21 OCT 2025 12:12
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -343,20 +343,76 @@ Package pdftex.def Info: Bilder/Hintergrund_dreiecke.png  used on input line 35.
 [2
 
 ]
-Overfull \hbox (7.76721pt too wide) in paragraph at lines 49--55
-\T1/cmr/m/n/10 eu-ropäis-ches Forschungspro-jekt, das da-rauf abzielte, das men-schliche Gehirn
+Overfull \hbox (5.2721pt too wide) in paragraph at lines 77--80
+[]\T1/cmr/bx/n/10 Neuartig: \T1/cmr/m/n/10 Das HBP war neuar-tig in seinem in-ter-diszi-plinären Ansatz,
  []
 
 
-Overfull \hbox (2.77307pt too wide) in paragraph at lines 49--55
-\T1/cmr/m/n/10 zu sim-mulieren. Diese Sim-u-la-tion sollte mit-tels Su-per-com-put-ing er-möglicht
+Overfull \hbox (4.92606pt too wide) in paragraph at lines 77--80
+\T1/cmr/m/n/10 der Neu-rowis-senschaften, Su-per-com-put-ing und Medi-zin auf einer einzi-
+ []
+
+
+Overfull \hbox (13.42398pt too wide) in paragraph at lines 81--83
+\T1/cmr/m/n/10 und der Ko-or-di-na-tion Tausender von Daten-quellen und un-ter-schiedlicher
  []
 
 
 
 [3
 
-] (project.aux)
+]
+
+[4]
+Overfull \hbox (6.47586pt too wide) in paragraph at lines 130--139
+\T1/cmr/m/n/10 mil-itärische Kon-ver-sions-fläche in ein mod-ernes, durch-mis-chtes Stadtquartier
+ []
+
+
+Overfull \hbox (1.43542pt too wide) in paragraph at lines 130--139
+\T1/cmr/m/n/10 nte Prob-lem-fak-toren bei Groÿbaupro-jek-ten kam es auch hier zu fi-nanziellen
+ []
+
+
+
+[5
+
+]
+
+[6]
+Overfull \hbox (7.50876pt too wide) in paragraph at lines 160--163
+\T1/cmr/m/n/10 Engagement-Rate zu er-re-ichen und pos-i-tive Rück-mel-dun-gen zur Natür-
+ []
+
+
+
+[7
+
+]
+Overfull \hbox (10.6654pt too wide) in paragraph at lines 190--194
+\T1/cmr/m/n/10 lernte. Frühere Chat-bots basierten auf fes-ten Antwort-mustern, während
+ []
+
+
+Overfull \hbox (30.26015pt too wide) in paragraph at lines 195--197
+[]\T1/cmr/bx/n/10 Komplex:\T1/cmr/m/n/10 Das Pro-jekt kom-binierte ver-schiedene Fach-bere-iche: maschinelles
+ []
+
+
+Overfull \hbox (6.4479pt too wide) in paragraph at lines 207--209
+[]\T1/cmr/bx/n/10 Fehlende Kon-trollmech-a-nis-men: \T1/cmr/m/n/10 Ob-wohl eine klare Pro-jek-tleitung
+ []
+
+
+
+[8]
+Overfull \hbox (13.56284pt too wide) in paragraph at lines 209--212
+\T1/cmr/m/n/10 heitsmech-a-nis-men zu in-te-gri-eren, um un-ethis-che und anstöÿige Äuÿerun-
+ []
+
+
+
+[9] (project.aux)
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-09-02>
@@ -365,15 +421,15 @@ L3 programming layer <2025-09-02>
 Here is how much of TeX's memory you used:
  12723 strings out of 468130
  256695 string characters out of 5447468
- 638536 words of memory out of 5000000
+ 641536 words of memory out of 5000000
  41130 multiletter control sequences out of 15000+600000
  634510 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,12n,105p,524b,760s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\simon\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk> <C:\Users\simon\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk> <C:\Users\simon\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\simon\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\simon\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\simon\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1728.pk>
-Output written on project.pdf (3 pages, 1085350 bytes).
+Output written on project.pdf (9 pages, 1116710 bytes).
 PDF statistics:
- 222 PDF objects out of 1000 (max. 8388607)
+ 294 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  18 words of extra memory for PDF output out of 10000 (max. 10000000)
 
