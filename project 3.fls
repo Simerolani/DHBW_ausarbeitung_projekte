@@ -142,6 +142,15 @@ INPUT S:\MikTeX\tex\latex\tools\afterpage.sty
 INPUT S:\MikTeX\tex\latex\tools\afterpage.sty
 INPUT S:\MikTeX\tex\latex\titlesec\titlesec.sty
 INPUT S:\MikTeX\tex\latex\titlesec\titlesec.sty
+INPUT S:\MikTeX\tex\latex\geometry\geometry.sty
+INPUT S:\MikTeX\tex\latex\geometry\geometry.sty
+INPUT S:\MikTeX\tex\generic\iftex\ifvtex.sty
+INPUT S:\MikTeX\tex\generic\iftex\ifvtex.sty
+INPUT S:\MikTeX\tex\generic\iftex\iftex.sty
+INPUT S:\MikTeX\tex\generic\iftex\iftex.sty
+INPUT S:\MikTeX\tex\latex\geometry\geometry.cfg
+INPUT S:\MikTeX\tex\latex\geometry\geometry.cfg
+INPUT S:\MikTeX\tex\latex\geometry\geometry.cfg
 INPUT S:\MikTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT S:\MikTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT .\project.aux
